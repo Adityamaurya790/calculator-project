@@ -1,0 +1,25 @@
+#cal{
+    border: 1px solid rgb(235, 212, 212);
+    border-radius: 5px;
+    text-align: center;
+    width: 200px;
+    /* height: 500px; */
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 4px;
+}
+
+#inp{
+    margin: 10px;
+    width:85%;
+}
+
+.but1{
+    height: 45px;
+    width: 45px;
+    margin: 4px;
+}
